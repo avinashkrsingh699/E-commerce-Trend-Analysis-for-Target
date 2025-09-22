@@ -2,7 +2,7 @@
 An exploratory and in-depth study of the E-Commerce sales data for a Brazilian store using SQL.
 
 ## 📚 About Project
-This particular business study focuses on the operations of Target in Brazil and provides insightful information about 100,000 orders placed between 2016 and 2018.
+This study explores Target’s Brazil operations, analyzing 100,000 e-commerce orders from 2016–2018 to uncover sales trends, customer behavior, and operational insights that drive smarter marketing, inventory planning, and business growth
 
 In this study, the given dataset has been analysed to extract valuable insights from various aspects of the business and to suggest actionable recommendations. BigQuery was used for writing SQL queries and fetching data from dataset.
 
